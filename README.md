@@ -1,4 +1,5 @@
-Домашнее задание для Netology.ru для курса Java Developer   
+### Домашнее задание к занятию 4.1 (модуль 3): JVM. Организация памяти, сборщики мусора, VisualVM
+## Задача "Исследование JVM через VisualVM"
 
 Описание и инструкция к выполнению [здесь](https://github.com/netology-code/jd-homeworks/tree/master/jvm/README.md)
 
